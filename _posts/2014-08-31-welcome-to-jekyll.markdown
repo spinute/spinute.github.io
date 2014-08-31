@@ -1,25 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hi! this is my first post."
 date:   2014-08-31 12:21:57
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+this is my `first post`.  
 
-Jekyll also offers powerful support for code snippets:
+I've used my blog [pin's][hatena] in hatena, but wanna use [jekyll][jekyll](cuz i'm ruby addi) and have my own homepage!
+
+Fortunately, jekyll use [pygment.rb][pig] for its syntax highlight.
+(and, it derives from famous python syntax hightlighter 'pygment')
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+# jekyll offers good snipet for code
+def hello 
+  puts 'poyo'
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+It's pretty good, hn?
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+[pig]:      https://rubygems.org/gems/pygments.rb
+[hatena]:   http://spinpsinspin.hatenablog.com
+[twitter]:  http://twitter.com/spinute
+[facebook]: http://facebook.com/
+[github]:   http://github.com/spinute
+[jekyll]:   http://jekyllrb.com

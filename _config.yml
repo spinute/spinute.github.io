@@ -1,14 +1,19 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: pin's
+email: spinute.pages@gmail.com
+descript: > 
+  This is personal homepage for spinute(堀江 慧 Horie Satoru).<br>
+  I'm in the University oy Tokyo, 
+  Faculty of Arts and Science,
+  Informatic Science major,
+  undergraduate student.<br>
+  <a href="http://metahack.org">Fukunaga Alex lab.</a><br>
+  <div align='right'>&copy;2014&nbsp;spinute</div>
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.spinute.org" # the base hostname & protocol for your site
+twitter_username: spinute
+github_username:  spinute
 
 # Build settings
 markdown: kramdown

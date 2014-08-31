@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div>
-	<h4>I'm interester in...</h4>
+	<h4>I'm interestered in...</h4>
 	<ul class="interest">
 		<li>Computer Science</li>
 		<div id="CS">Optimization, Artificial Intelligence, Constraint Programming, Operation Research, General problem solver.
@@ -31,7 +31,7 @@ permalink: /about/
 				<li><a href=""></a>Suzuki Sinri</li>
 				<li><a href=""></a>SHUN</li>
 				<li><a href=""></a>Ayako Ukawa</li>
-				<li><a href=""></a>SUJU Tap</li>
+				<li><a href=""></a>SUJI Tap</li>
 				<li><a href=""></a>RONx2</li>
 			</ul>
 			<li>JazzDance</li>

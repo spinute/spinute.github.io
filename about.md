@@ -8,47 +8,32 @@ permalink: /about/
 	<h4>I'm interestered in...</h4>
 	<ul class="interest">
 		<li>Computer Science</li>
-		<div id="CS">Optimization, Artificial Intelligence, Constraint Programming, Operation Research, General problem solver.
-		<br>and especially in how human or agent make better or the best choices in his desidion making.
-		<br>Using these approaches, general models and solvers, MIP, SAT, and Planning.</div>
+		<div id="CS">Optimization, Artificial Intelligence, Constraint Programming, Operations Research, and desiedion making proccesses.</div>
 
 		<li>Languege</li>
 		<ul class="programming">
 			<li>Ruby</li>
 			<li>C++</li>
 			<li>C</li>
-			<li>interested in 5GLs</li>
+			<li>also interested in 5GLs</li>
 		</ul>
+
 		<li>Dance</li>
 		<ul class="dance">
-			<li>TapDance</li>
-			<ul id="tapdance">
-				<li>Waseda Univ. Tapdance circle: <a href="http://unity2006.web.fc2.com/">Unity</a></li>
-				<li><a href=""></a>ASAKI</li>
-				<li><a href=""></a>Suzuki Sinri</li>
-				<li><a href=""></a>SHUN</li>
-				<li><a href=""></a>Ayako Ukawa</li>
-				<li><a href=""></a>SUJI Tap</li>
-				<li><a href=""></a>RONx2</li>
-			</ul>
-			<li>JazzDance</li>
-			<ul id="jazzdance">
-				<li>Univ.Tokyo Jazz Dance circle: <a href="http://www.jazzdancefreed.com/">FreeD</a></li>
-			</ul>
+			<li>TapDance: Waseda Univ. Tapdance circle: <a href="http://unity2006.web.fc2.com/">Unity</a></li>
+			<li>JazzDance: Univ.Tokyo Jazz Dance circle: <a href="http://www.jazzdancefreed.com/">FreeD</a></li>
 			<li>HouseDance</li>
 			<li>...etc</li>
 		</ul>
-		<li>Board Games</li>
+
+		<li>Game</li>
 		<ul>
-			<li><strong>Go</strong><small>(not Go lang)</small></li>
-			<ul id="igobu">
-				<li>Univ. Tokyo <a href="http://blog.livedoor.jp/tokyogoclub/">Go club</a> -> 2010's manager</li>
-			</ul>
-			<li>Othello</li>
+			<li>Go<small>(not Go language)</small>: Univ. Tokyo <a href="http://blog.livedoor.jp/tokyogoclub/">Go club</a> -> manager in 2010</li>
 			<li>Mah-jong</li>
+            <li><small>Shogi</small></li>
 			<li>Jinro</li>
 			<li>...etc,</li>
-			<li>and play them in using computer AI</li>
+			<li>and play them with using computer AI</li>
 		</ul>
 	</ul>
 </div>

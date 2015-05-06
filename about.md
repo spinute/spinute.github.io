@@ -14,13 +14,10 @@ permalink: /about/
 
 		<li>Languege</li>
 		<ul class="programming">
-			<li><strong>Ruby</strong></li>
+			<li>Ruby</li>
 			<li>C++</li>
-			<li>Erlang</li>
-			<li>Prolog</li>
-			<li>Python</li>
-			<li>Javascript</li>
-			<li>...etc</li>
+			<li>C</li>
+			<li>interested in 5GLs</li>
 		</ul>
 		<li>Dance</li>
 		<ul class="dance">
@@ -41,9 +38,9 @@ permalink: /about/
 			<li>HouseDance</li>
 			<li>...etc</li>
 		</ul>
-		<li>Intellectual Games</li>
+		<li>Board Games</li>
 		<ul>
-			<li>especially -> <strong>Go</strong><small>(sorry, this is not go-lang, but なんか)</small></li>
+			<li><strong>Go</strong><small>(not Go lang)</small></li>
 			<ul id="igobu">
 				<li>Univ. Tokyo <a href="http://blog.livedoor.jp/tokyogoclub/">Go club</a> -> 2010's manager</li>
 			</ul>

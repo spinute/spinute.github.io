@@ -1,4 +1,3 @@
-# Site settings
 title: pin's
 email: spinute.pages@gmail.com
 descript: > 
@@ -10,8 +9,8 @@ descript: >
   <a href="http://metahack.org">Fukunaga Alex lab.</a><br>
   <div align='right'>&copy;2014&nbsp;spinute</div>
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.spinute.org" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://www.spinute.org" 
 twitter_username: spinute
 github_username:  spinute
 

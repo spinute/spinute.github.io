@@ -5,17 +5,18 @@ permalink: /about/
 ---
 
 <div>
-	<h4>I'm interestered in...</h4>
+	<h3>I'm interestered in...</h3>
 	<ul class="interest">
 		<li>Computer Science</li>
-		<div id="CS">Optimization, Artificial Intelligence, Constraint Programming, Operations Research, and desiedion making proccesses.</div>
+		<div id="CS">Optimization, Artificial Intelligence, Operations Research and decision making.</div>
 
 		<li>Languege</li>
 		<ul class="programming">
+			<li>Vim</li>
 			<li>Ruby</li>
-			<li>C++</li>
 			<li>C</li>
-			<li>also interested in 5GLs</li>
+			<li>Go</li>
+			<li>also interested in declarative languages</li>
 		</ul>
 
 		<li>Dance</li>
@@ -28,12 +29,12 @@ permalink: /about/
 
 		<li>Game</li>
 		<ul>
-			<li>Go<small>(not Go language)</small>: Univ. Tokyo <a href="http://blog.livedoor.jp/tokyogoclub/">Go club</a> -> manager in 2010</li>
+			<li>Go : Univ. Tokyo <a href="http://blog.livedoor.jp/tokyogoclub/">Go club</a> -> 2010 manager</li>
 			<li>Mah-jong</li>
-            <li><small>Shogi</small></li>
+            <li>Shogi</li>
 			<li>Jinro</li>
 			<li>...etc,</li>
-			<li>and play them with using computer AI</li>
+			<li>play them with using computer AI</li>
 		</ul>
 	</ul>
 </div>

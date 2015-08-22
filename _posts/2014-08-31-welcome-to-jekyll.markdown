@@ -5,7 +5,7 @@ date:   2014-08-31 12:21:57
 categories: jekyll update
 ---
 
-this is my `first post`.  
+this is my `first post`.
 
 I've used my blog [pin's][hatena] in hatena, but wanna use [jekyll][jekyll](cuz i'm ruby addi) and have my own homepage!
 
@@ -14,7 +14,7 @@ Fortunately, jekyll use [pygment.rb][pig] for its syntax highlight.
 
 {% highlight ruby %}
 # jekyll offers good snipet for code
-def hello 
+def hello
   puts 'poyo'
 end
 {% endhighlight %}

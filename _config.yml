@@ -1,6 +1,6 @@
 title: pin's
 email: spinute.pages@gmail.com
-descript: > 
+descript: >
   This is personal homepage for spinute(堀江 慧 Horie Satoru).<br>
   I'm in the University oy Tokyo.(
   <a hrey="http://www.c.u-tokyo.ac.jp/eng_site/">the Graduate school of Arts and Sciences</a>,
@@ -9,8 +9,8 @@ descript: >
   )<br>
   <div align='right'>&copy;2015&nbsp;spinute</div>
 
-baseurl: "" 
-url: "http://spinute.org" 
+baseurl: ""
+url: "http://spinute.org"
 twitter_username: spinute
 github_username:  spinute
 

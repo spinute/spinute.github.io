@@ -3,9 +3,9 @@
 
 # Site settings
 title: Pin's
-email: spinutids@gmail.com
+email: spinutids<at><gmail>
 descript: >
-  This is a website of spinute(Horie Satoru, Pin).<br>
+  This is a website of spinute(Horie Satoru).<br>
   <div align='right'>&copy;2016&nbsp;spinute</div>
 baseurl: ""
 url: "http://spinute.org"

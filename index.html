@@ -5,27 +5,28 @@ title: spinute
 
 <div class="home">
 
-  <h1 class="page-heading">Top Page</h2>
+    <h1 class="page-heading">Top Page</h2>
 
-  <img src="image/pin.JPG" alt="internship in CyberAgent" width='30%' height='auto'>
-  <img src="image/works01.jpg" alt="At our jazz dance perfomance" width="30%" height="auto">
-  <img src="image/works02.jpg" alt="Our CD jacket" width="30%" height="auto">
-  <img src="image/works04.jpg" alt="At a university student's pair-go tounament" width="30%" height="auto">
-  <img src="image/works05.jpeg" alt="with my friends" width="30%" height="auto">
-  <img src="image/works07.jpg" alt="Fujisawa Shuko's work" width="30%" height="auto">
+    <img src="image/pin.JPG" alt="internship in CyberAgent" width='30%' height='auto'>
+    <img src="image/works01.jpg" alt="At our jazz dance perfomance" width="30%" height="auto">
+    <img src="image/works02.jpg" alt="Our CD jacket" width="30%" height="auto">
+    <img src="image/works04.jpg" alt="At a university student's pair-go tounament" width="30%" height="auto">
+    <img src="image/works05.jpeg" alt="with my friends" width="30%" height="auto">
+    <img src="image/works07.jpg" alt="Fujisawa Shuko's work" width="30%" height="auto">
 
-  <!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h2>Recent Posts</h2>
+    <ul class="post-list">
+	{% for post in site.posts %}
+	<li>
+	    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul> -->
+	    <h3>
+		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	    </h3>
+	</li>
+	{% endfor %}
+    </ul>
 
- <!--  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
- -->
+    <!--  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    -->
 </div>

@@ -1,1 +1,1 @@
-this is homepage for spinute
+This is a personal website for spinute

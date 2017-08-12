@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Japanese Translation Project for Open Data Structures"
+---
+
+{{page.title}}
+=============
+
+{{site.baseurl}}
+
 TL;DR
 * Translating Open Data Structures, open free textbook on data structure
 * Planning to write sample codes in Ruby, and re-export the Ruby edition into English

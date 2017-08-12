@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Open Data Structure の日本語版の公開"
+---
+
+{{page.title}}
+=============
+
+{{site.baseurl}}
 TL;DR
 * Open Data Structures というフリーのデータ構造の教科書を翻訳している
 * サンプルコードを新たにRubyで書き、Ruby版を英語に逆輸入する予定である

@@ -23,7 +23,7 @@ title: About
   * Developing a big-data processing framework mainly in Erlang
 * 2016.09 - 2017.03
   * Fixstars Corp. Part-time in computer vision team
-  * Improved performance of ADAS system. (C++, CUDA, OpenCV)
+  * Improved performance of advanced driver-assistance systems. (C++, CUDA, OpenCV)
 * 2016.04 - 2016.08
   * Google Summer of Codes project. Student developer in Ruby Community
   * Improved data structures inside Ruby interpreter written in C.

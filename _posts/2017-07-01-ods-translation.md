@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Data Structure の日本語版の公開"
+title: "Open Data Structure の日本語版（経過報告）"
 ---
 
 {{page.title}}

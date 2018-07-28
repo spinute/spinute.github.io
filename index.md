@@ -27,7 +27,7 @@ title: About
 * 2016.04 - 2016.08
   * Google Summer of Codes project. Student developer in Ruby Community
   * Improved data structures inside Ruby interpreter written in C.
-  * Final report: <https://www.spinute.org/ruby/gsoc2016/english>
+  * Final report: <http://www.spinute.org/ruby/gsoc2016/english>
 * 2014.09 - 2017.03
   * Murakumo Inc. Part-time in big-data processing infrastructure team
   * Developed RDBMS from scratch in C.

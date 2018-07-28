@@ -56,4 +56,5 @@ Algorithm, Parallel/Distributed Computing, Artificial Intelligence, Decision Mak
 * Shuwa Miura, Satoru Horie, and Alex Fukunaga. 2016. Automated Axiom Extraction in Classical Planning. Special Interest Group of Fundamental Problems in Artificial Intelligence
 
 ## Extracurricular Activity
-* Japanese translation of Open Data Structures (textbook), publishing summer 2018. <https://sites.google.com/view/open-data-structures-ja/home>
+* Japanese translation of Open Data Structures <https://sites.google.com/view/open-data-structures-ja/home>
+ * published as みんなのデータ構造 <https://www.lambdanote.com/collections/frontpage/products/opendatastructures>

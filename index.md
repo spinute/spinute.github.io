@@ -57,4 +57,5 @@ Algorithm, Parallel/Distributed Computing, Artificial Intelligence, Decision Mak
 
 ## Extracurricular Activity
 * Japanese translation of Open Data Structures <https://sites.google.com/view/open-data-structures-ja/home>
- * published as みんなのデータ構造 <https://www.lambdanote.com/collections/frontpage/products/opendatastructures>
+  * published as みんなのデータ構造 <https://www.lambdanote.com/collections/frontpage/products/opendatastructures>
+* Japanese translation of Go by Example as 「サンプルで学ぶ Go 言語」 <http://spinute.org/go-by-example>

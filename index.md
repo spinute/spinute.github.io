@@ -18,24 +18,25 @@ title: About
 * E-mail: spinutids at gmail
 
 ## Experience
-* 2017.04 - present
+* 2017.04 - 2019.02
   * Murakumo Inc. Software Engineer
-  * Developing a big-data processing framework mainly in Erlang
+  * Developed a big-data processing framework mainly in Erlang
 * 2016.09 - 2017.03
   * Fixstars Corp. Part-time in computer vision team
   * Improved performance of a driver-assistance system. (C++, CUDA, OpenCV)
 * 2016.04 - 2016.08
   * Google Summer of Codes project. Student developer in Ruby Community
   * Improved data structures inside Ruby interpreter written in C.
-  * Final report: <http://www.spinute.org/ruby/gsoc2016/english>
+  * [Final report](http://www.spinute.org/ruby/gsoc2016/english)
+  * [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/)
 * 2014.09 - 2017.03
   * Murakumo Inc. Part-time in big-data processing infrastructure team
   * Developed RDBMS from scratch in C.
 
 ## Skill
 * Programming Languages
-  * Proficient: C, C++, Ruby, Erlang
-  * Experienced: CUDA, Golang, Bash, SQL, Javascript, Python, Java, Elixir, Delphi, Rust
+  * Proficient: C, C++, Erlang, Ruby
+  * Experienced: Golang, CUDA, Bash, SQL, Javascript, Python, Elixir, Rust, Java
 * Languages: Native in Japanese, and fluent in English
 * Skilled in critical thinking, logic, and math
 
@@ -51,11 +52,14 @@ title: About
 ## Fields of Interest
 Algorithm, Parallel/Distributed Computing, Artificial Intelligence, Decision Making, Probability and Randomness, Computer Vision
 
-## Research
+## Research papers
 * Satoru Horie, Alex Fukunaga. 2017. Block-Parallel IDA\* For GPUs. The 10th Annual Symposium on Combinatorial Search
+  * [Conference version](https://aaai.org/ocs/index.php/SOCS/SOCS17/paper/viewFile/15801/15067)
+  * [Extended manuscript](https://www.arxiv-vanity.com/papers/1705.02843/)
 * Shuwa Miura, Satoru Horie, and Alex Fukunaga. 2016. Automated Axiom Extraction in Classical Planning. Special Interest Group of Fundamental Problems in Artificial Intelligence
+  * <https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=947&item_no=1>
 
 ## Extracurricular Activity
-* Japanese translation of Open Data Structures <https://sites.google.com/view/open-data-structures-ja/home>
-  * published as みんなのデータ構造 <https://www.lambdanote.com/collections/frontpage/products/opendatastructures>
-* Japanese translation of Go by Example as 「サンプルで学ぶ Go 言語」 <http://spinute.org/go-by-example>
+* [Japanese translation of Open Data Structures](https://sites.google.com/view/open-data-structures-ja/home)
+  * published as [みんなのデータ構造](https://www.lambdanote.com/collections/frontpage/products/opendatastructures) in 2018
+* Japanese translation of Go by Example as [サンプルで学ぶ Go 言語](http://spinute.org/go-by-example)

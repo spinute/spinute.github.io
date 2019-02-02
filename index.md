@@ -36,7 +36,7 @@ title: About
 ## Skill
 * Programming Languages
   * Proficient: C, C++, Erlang, Ruby
-  * Experienced: Golang, CUDA, Bash, SQL, Javascript, Python, Elixir, Rust, Java
+  * Experienced: Golang, CUDA, Bash, SQL, JavaScript, Python, Elixir, Rust, Java
 * Languages: Native in Japanese, and fluent in English
 * Skilled in critical thinking, logic, and math
 

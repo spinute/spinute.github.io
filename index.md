@@ -48,7 +48,7 @@ title: About
   * [Conference version](https://aaai.org/ocs/index.php/SOCS/SOCS17/paper/viewFile/15801/15067)
   * [Extended manuscript](https://www.arxiv-vanity.com/papers/1705.02843/)
 * Shuwa Miura, Satoru Horie, and Alex Fukunaga. 2016. Automated Axiom Extraction in Classical Planning. Special Interest Group of Fundamental Problems in Artificial Intelligence
-  * <https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=947&item_no=1>
+  * <http://id.nii.ac.jp/1004/00000893/>
 
 ## Extracurricular Activity
 * [Japanese translation of Open Data Structures](https://sites.google.com/view/open-data-structures-ja/home)

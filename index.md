@@ -3,40 +3,28 @@ layout: default
 title: About
 ---
 
-<div class="home">
-<img src="image/pin.JPG" width='30%' height='auto'>
-<img src="image/works01.jpg" width="30%" height="auto">
-<img src="image/works02.jpg" width="30%" height="auto">
-<img src="image/works04.jpg" width="30%" height="auto">
-<img src="image/works05.jpeg" width="30%" height="auto">
-<img src="image/works07.jpg" width="30%" height="auto">
-</div>
-
-<br>
-
 * Name: Horie Satoru (堀江 慧)
 * E-mail: spinutids at gmail
 
-## Experience
-* 2017.04 - 2019.02
-  * Murakumo Inc. Software Engineer
-  * Developed a big-data processing framework mainly in Erlang
-* 2016.09 - 2017.03
-  * Fixstars Corp. Part-time in computer vision team
-  * Improved performance of a driver-assistance system. (C++, CUDA, OpenCV)
-* 2016.04 - 2016.08
-  * Google Summer of Codes project. Student developer in Ruby Community
-  * Improved data structures inside Ruby interpreter written in C.
-  * [Final report](http://www.spinute.org/ruby/gsoc2016/english)
-  * [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/)
-* 2014.09 - 2017.03
-  * Murakumo Inc. Part-time in big-data processing infrastructure team
-  * Developed RDBMS from scratch in C.
+## Work experience
 
-## Skill
+* Murakumo Inc. Software Engineer
+  * Developed a big-data processing framework mainly in Erlang.
+  * 2017.04 - 2019.02
+* Fixstars Corp. Part-time programmer in computer vision team
+  * Improved performance of a driver-assistance system using CUDA and OpenCV.
+  * 2016.09 - 2017.03
+* Google Summer of Codes. Student developer in Ruby community
+  * Improved data structures inside Ruby interpreter written in C. ([Final report](http://www.spinute.org/ruby/gsoc2016/english), [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/))
+  * 2016.04 - 2016.08
+* Murakumo Inc. Part-time developer in big-data processing infrastructure team
+  * Developed RDBMS from scratch in C.
+  * 2014.09 - 2017.03
+
+## Skills
 * Programming Languages
-  * Proficient: C, C++, Erlang, Ruby
-  * Experienced: Golang, CUDA, Bash, SQL, JavaScript, Python, Elixir, Rust, Java
+  * Proficient: C, C++, Erlang, Ruby, Golang
+  * Experienced: CUDA, Bash, SQL, JavaScript, Python, Elixir, Rust, Haskell, Java
 * Languages: Native in Japanese, and fluent in English
 * Skilled in critical thinking, logic, and math
 
@@ -50,7 +38,10 @@ title: About
   * Graduation Project: Efficient Model of Automated Planning in Mixed Linear Programming
 
 ## Fields of Interest
-Algorithm, Parallel/Distributed Computing, Artificial Intelligence, Decision Making, Probability and Randomness, Computer Vision
+
+* Algorithm, Parallel/Distributed Computing, High Performance Computing
+* Artificial Intelligence, Decision Making, Computer Vision, Natural Language Processing
+* Probability and Randomness, Combinatorial Optimization
 
 ## Research papers
 * Satoru Horie, Alex Fukunaga. 2017. Block-Parallel IDA\* For GPUs. The 10th Annual Symposium on Combinatorial Search

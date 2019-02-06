@@ -4,8 +4,6 @@
 # Site settings
 title: spinute
 email: spinutids(at)(gmail)
-descript: >
-  <div align='right'>&copy;spinute, all rights reserved.</div>
 baseurl: ""
 url: "http://spinute.org"
 twitter_username: spinute

@@ -8,17 +8,20 @@ title: About
 
 ## Work experience
 
+* AppBrew Inc. Part-time Search Quality Engineer
+  * Improving search quality in [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Elasticsearch and Ruby on Rails.
+  * 2019.03 - 2019.05
 * Murakumo Inc. Software Engineer
   * Developed a big-data processing framework mainly in Erlang.
   * 2017.04 - 2019.02
 * Fixstars Corp. Part-time programmer in computer vision team
-  * Improved performance of a driver-assistance system using CUDA and OpenCV.
+  * Improved performance of a driver-assistance system using C++, CUDA, and OpenCV.
   * 2016.09 - 2017.03
 * Google Summer of Codes. Student developer in Ruby community
   * Improved data structures inside Ruby interpreter written in C. ([Final report](http://www.spinute.org/ruby/gsoc2016/english), [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/))
   * 2016.04 - 2016.08
 * Murakumo Inc. Part-time developer in big-data processing infrastructure team
-  * Developed RDBMS from scratch in C.
+  * Developed distributed RDBMS from scratch in C.
   * 2014.09 - 2017.03
 
 ## Skills

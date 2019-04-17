@@ -24,7 +24,7 @@ TL;DR [サンプルで学ぶ Go 言語](http://www.spinute.org/go-by-example/)�
 ここ一年くらいだと、例えば以下の趣味プログラミングを Go でやってきました。
 
 * [Fixstars のプログラミングコンテスト](http://proc-cpuinfo.fixstars.com/2019/01/in-house-procon-07-announcement/)で、ゲーム AI を実装した
-  * 優勝してしまった
+  * 優勝してしまった📍Go 最強📌
 * 2月から [AtCoder](https://atcoder.jp/) に参加している
   * 先週水色に[なった](https://twitter.com/spinute/status/1117032366608764930)。青か黄色まで行きたい。Twitter で（Go でやってる人少ないので）よくコード読んでますって[言われて](https://twitter.com/mellow_03/status/1117080197797273601)嬉しかった
 * [「みんなのデータ構造」](https://www.lambdanote.com/products/opendatastructures)の出版準備をしているとき、検証を兼ねて、本に載っているデータ構造をいろいろ[実装した](https://github.com/spinute/ods-go)

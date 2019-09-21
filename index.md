@@ -8,9 +8,9 @@ title: About
 
 ## Work experience
 
-* AppBrew Inc. Part-time Search Quality Engineer
-  * Improving search quality in [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Elasticsearch and Ruby on Rails.
-  * 2019.03 - 2019.05
+* AppBrew Inc. Full stack software engineer
+  * Developing [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Rails, AWS, Elasticsearch
+  * 2019.03 -
 * Murakumo Inc. Software Engineer
   * Developed a big-data processing framework mainly in Erlang.
   * 2017.04 - 2019.02

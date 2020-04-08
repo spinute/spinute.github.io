@@ -8,8 +8,8 @@ title: About
 
 ## Work experience
 
-* AppBrew Inc. Full stack software engineer
-  * Developing [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Rails, AWS, Elasticsearch
+* AppBrew Inc. Lead software engineer
+  * Developing [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Rails, AWS, Elasticsearch.
   * 2019.03 -
 * Murakumo Inc. Software Engineer
   * Developed a big-data processing framework mainly in Erlang.

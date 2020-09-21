@@ -18,7 +18,7 @@ title: About
   * Improved performance of a driver-assistance system using C++, CUDA, and OpenCV.
   * 2016.09 - 2017.03
 * Google Summer of Codes. Student developer in Ruby community
-  * Improved data structures inside Ruby interpreter written in C. ([Final report](http://www.spinute.org/ruby/gsoc2016/english), [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/))
+  * Improved data structures inside Ruby interpreter written in C. ([Final report](https://www.spinute.org/ruby/gsoc2016/english), [Proposal](https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/))
   * 2016.04 - 2016.08
 * Murakumo Inc. Part-time developer in big-data processing infrastructure team
   * Developed distributed RDBMS from scratch in C.
@@ -56,4 +56,4 @@ title: About
 ## Extracurricular Activity
 * [Japanese translation of Open Data Structures](https://sites.google.com/view/open-data-structures-ja/home)
   * published as [みんなのデータ構造](https://www.lambdanote.com/collections/frontpage/products/opendatastructures) in 2018
-* Japanese translation of Go by Example as [サンプルで学ぶ Go 言語](http://spinute.org/go-by-example)
+* Japanese translation of Go by Example as [サンプルで学ぶ Go 言語](https://spinute.org/go-by-example)

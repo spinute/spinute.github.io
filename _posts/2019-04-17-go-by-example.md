@@ -3,7 +3,7 @@ layout: post
 title: サンプルで学ぶ Go 言語
 ---
 
-TL;DR [サンプルで学ぶ Go 言語](http://www.spinute.org/go-by-example/)というウェブサイトが生えた
+TL;DR [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example/)というウェブサイトが生えた
 
 このウェブサイトは [Go by Example](https://gobyexample.com/) の日本語訳です。
 これは Go のチュートリアルで、<https://hackr.io/tutorials/learn-golang> でも <https://gitconnected.com/learn/golang> でも、公式チュートリアル以外では 2019 年 4 月時点で一番高い評価がついています。

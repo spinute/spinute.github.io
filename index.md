@@ -8,7 +8,7 @@ title: About
 
 ## Work experience
 
-* AppBrew Inc. Lead software engineer
+* AppBrew Inc. CTO
   * Developing [LIPS](https://itunes.apple.com/jp/app/id1182886549) using Rails, AWS, Elasticsearch.
   * 2019.03 -
 * Murakumo Inc. Software Engineer
